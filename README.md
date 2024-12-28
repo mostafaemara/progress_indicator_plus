@@ -15,10 +15,7 @@ To use this package, add `progress_indicator_plus` as a dependency in your `pubs
 
 ```yaml
 dependencies:
-  progress_indicator_plus:
-    git:
-      url: https://github.com/your-repo/progress_indicator_plus.git
-      ref: main
+  progress_indicator_plus: ^0.0.1
 ```
 
 ## Usage
@@ -61,5 +58,3 @@ class MyApp extends StatelessWidget {
 ## Additional information
 
 For more information, please refer to the [documentation](https://github.com/your-repo/progress_indicator_plus) or file an issue on the [issue tracker](https://github.com/your-repo/progress_indicator_plus/issues).
-
-Contributions are welcome! Please see the [contributing guidelines](https://github.com/your-repo/progress_indicator_plus/blob/main/CONTRIBUTING.md) for more information.
