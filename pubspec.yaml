@@ -1,6 +1,6 @@
 name: progress_indicator_plus
 description: "A Flutter package that provides customizable progress indicators with dynamic text color contrast."
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/your-repo/progress_indicator_plus
 
 environment:

@@ -15,3 +15,9 @@
 - Added examples to README for different text visibility cases.
 - Improved documentation and usage examples.
 - Updated README with images illustrating text on background, half on background and half on progress color, and text on progress color.
+
+## [0.0.3] - 2023-10-02
+
+### Added
+
+- Fix documentation example

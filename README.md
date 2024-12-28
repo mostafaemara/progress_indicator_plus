@@ -15,7 +15,7 @@ To use this package, add `progress_indicator_plus` as a dependency in your `pubs
 
 ```yaml
 dependencies:
-  progress_indicator_plus: ^0.0.1
+  progress_indicator_plus: ^0.0.3
 ```
 
 ## Usage
@@ -59,16 +59,12 @@ class MyApp extends StatelessWidget {
 
 ### Text on Background
 
-![Text on Background](/resources/1.png)
+![Text on Background](https://github.com/mostafaemara/progress_indicator_plus/blob/main/resources/1.png?raw=true)
 
 ### Text Half on Background and Half on Progress Color
 
-![Text Half on Background and Half on Progress Color](/resources/2.png)
+![Text Half on Background and Half on Progress Color](https://github.com/mostafaemara/progress_indicator_plus/blob/main/resources/2.png?raw=true)
 
 ### Text on Progress Color
 
-![Text on Progress Color](/resources/3.png)
-
-## Additional information
-
-For more information, please refer to the [documentation](https://github.com/your-repo/progress_indicator_plus) or file an issue on the [issue tracker](https://github.com/your-repo/progress_indicator_plus/issues).
+![Text on Progress Color](https://github.com/mostafaemara/progress_indicator_plus/blob/main/resources/3.png?raw=true)
