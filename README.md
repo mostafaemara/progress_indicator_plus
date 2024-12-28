@@ -55,6 +55,20 @@ class MyApp extends StatelessWidget {
 }
 ```
 
+## Examples
+
+### Text on Background
+
+![Text on Background](/resources/1.png)
+
+### Text Half on Background and Half on Progress Color
+
+![Text Half on Background and Half on Progress Color](/resources/2.png)
+
+### Text on Progress Color
+
+![Text on Progress Color](/resources/3.png)
+
 ## Additional information
 
 For more information, please refer to the [documentation](https://github.com/your-repo/progress_indicator_plus) or file an issue on the [issue tracker](https://github.com/your-repo/progress_indicator_plus/issues).
